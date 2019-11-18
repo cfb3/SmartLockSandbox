@@ -62,6 +62,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginEnd="16dp"
+        android:checked="true"
         android:text="@string/action_stay_signed_in"
         app:layout_constraintBaseline_toBaselineOf="@+id/button_login_signin"
         app:layout_constraintEnd_toStartOf="@+id/button_login_signin" />

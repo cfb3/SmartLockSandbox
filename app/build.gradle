@@ -34,5 +34,4 @@ dependencies {
     implementation 'androidx.navigation:navigation-ui:2.1.0'
     implementation 'androidx.navigation:navigation-fragment:2.0.0'
     apply plugin: "androidx.navigation.safeargs"
-
 }

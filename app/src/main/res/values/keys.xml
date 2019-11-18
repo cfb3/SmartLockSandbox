@@ -2,6 +2,7 @@
 <resources>
 
     <string name="keys_shared_prefs">edu.uw.tcss450.smartlocksandbox.PREFS</string>
+    <string name="keys_prefs_email">key to store the email</string>
     <string name="keys_prefs_jwt">key to store the JWT</string>
 
     <string name="keys_json_login_success">success</string>

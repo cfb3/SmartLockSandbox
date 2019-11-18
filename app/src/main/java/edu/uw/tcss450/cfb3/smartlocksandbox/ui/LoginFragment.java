@@ -1,8 +1,6 @@
 package edu.uw.tcss450.cfb3.smartlocksandbox.ui;
 
 
-import android.content.Context;
-import android.content.SharedPreferences;
 import android.net.Uri;
 import android.os.AsyncTask;
 import android.os.Bundle;
@@ -18,6 +16,7 @@ import android.view.ViewGroup;
 import android.widget.EditText;
 import android.widget.Switch;
 import android.widget.TextView;
+
 
 import org.json.JSONException;
 import org.json.JSONObject;

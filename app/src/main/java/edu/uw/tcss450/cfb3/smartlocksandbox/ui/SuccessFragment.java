@@ -49,6 +49,7 @@ public class SuccessFragment extends Fragment {
     }
 
     private void signOutAction(final View theButton) {
+
         getActivity().finishAndRemoveTask();
     }
 }
