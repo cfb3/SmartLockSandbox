@@ -37,7 +37,6 @@ import edu.uw.tcss450.cfb3.smartlocksandbox.R;
 public class LoginFragment extends Fragment {
 
     private String mEmail;
-    private String mJwt;
 
     public LoginFragment() {
         // Required empty public constructor
